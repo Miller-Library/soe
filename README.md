@@ -1,2 +1,2 @@
-# soe
+# Stanford Oceanographic Expeditions (SOE)
 A repository for projects related to the Stanford Oceanographic Expeditions. From 1962 - 1973, faculty and staff from Hopkins Marine Station (HMS) operated a "floating classroom" for graduate students aboard the schooner 'Te Vega' and an old tuna clipper called 'Proteus'. The voyages associated with these activities are called the "Stanford Oceanographic Expeditions," and the Harold A. Miller Library at HMS holds a wide variety of materials that came out of these cruises: narratives from the Chief Scientist, research reports written by graduate students, data logs, maps and more.
